@@ -29,7 +29,3 @@ An image board web application built with **ASP.NET Core**, **Entity Framework**
    ```bash
    git clone https://github.com/your-username/imageboard.git
    cd imageboard
-2. **Get the Dependencies used:**
-
-   ```bash
-  dotnet restore
