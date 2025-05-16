@@ -26,20 +26,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /home/traps/Documents/csharpt/ImageBoard
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/traps/Documents/csharpt/ImageBoard/Views/HelloWorld/index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGVsbG9Xb3JsZC9pbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/traps/Documents/csharpt/ImageBoard/Views/HelloWorld/Welcome.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGVsbG9Xb3JsZC9XZWxjb21lLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [/home/traps/Documents/csharpt/ImageBoard/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/traps/Documents/csharpt/ImageBoard/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/traps/Documents/csharpt/ImageBoard/Views/Post/Post.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUG9zdC9Qb3N0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/traps/Documents/csharpt/ImageBoard/Views/Shared/Error.cshtml]

@@ -132,3 +132,4 @@
 /home/traps/Documents/csharpt/ImageBoard/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
 /home/traps/Documents/csharpt/ImageBoard/obj/Debug/net8.0/ImageBoard.csproj.AssemblyReference.cache
 /home/traps/Documents/csharpt/ImageBoard/obj/Debug/net8.0/ImageBoard.csproj.Up2Date
+/home/traps/Documents/csharpt/ImageBoard/obj/Debug/net8.0/ImageBoard.sourcelink.json
